@@ -18,6 +18,13 @@ dependencies {
 tasks.test {
     useJUnitPlatform()
 }
+
+tasks.jar {
+    manifest {
+        attributes("Main-Class" to "dev.sakkke.windowClock.WindowClockKt")
+    }
+    from(configurations.runtimeClasspath.get().map { if (it.isDirectory) it else zipTree(it) })
+}
 kotlin {
     jvmToolchain(17)
 }
