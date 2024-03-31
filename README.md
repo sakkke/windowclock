@@ -7,6 +7,11 @@ This application is perfect for users with taskbars positioned on the left or ri
 that integrates seamlessly into your workspace.
 With its minimalistic and customizable design, WindowClock ensures timekeeping is both elegant and innovative.
 
+## Installation (WIP)
+
+1. Download the `windowclock.jar` from the Releases page.
+2. Place the downloaded `.jar` file anywhere.
+
 ## License
 
 [MIT](./LICENSE)
