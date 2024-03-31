@@ -12,6 +12,13 @@ With its minimalistic and customizable design, WindowClock ensures timekeeping i
 1. Download the `windowclock.jar` from the Releases page.
 2. Place the downloaded `.jar` file anywhere.
 
+## Usage
+
+When you run `windowclock.jar`, the title of the window automatically changes to display the current time as a clock.
+If your taskbar is located on the left or right side of the screen, the clock will automatically adjust for optimal
+viewing.
+To exit, just close the window.
+
 ## License
 
 [MIT](./LICENSE)
