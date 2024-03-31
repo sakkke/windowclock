@@ -1,1 +1,5 @@
 # WindowClock
+
+## License
+
+[MIT](./LICENSE)
